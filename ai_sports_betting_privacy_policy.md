@@ -3,7 +3,7 @@
 **Effective Date:** September 18, 2026  
 **Last Updated:** September 18, 2026  
 **Developer:** Tshiamo Jantjie  
-**Contact Email:** tshiajan@gmail.com  
+**Contact Email:** janaire.dev@gmail.com  
 **Hosted Policy URL:** https://tshiajan.github.io/ai-sports-betting-privacy/
 
 ---
@@ -93,5 +93,5 @@ We may update this Privacy Policy from time to time to accommodate application u
 If you have questions, feedback, or inquiries regarding this Privacy Policy, please reach out:
 
 - **Developer:** Tshiamo Jantjie
-- **Email:** tshiajan@gmail.com
+- **Email:** janaire.dev@gmail.com
 - **Hosted Privacy URL:** https://tshiajan.github.io/ai-sports-betting-privacy/
